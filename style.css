@@ -1,0 +1,42 @@
+.userinput{
+    display:flex;
+    justify-content: center;
+    font-size: 3rem;
+}
+ input{
+    margin: 10px;
+    height: 80px;
+    width: 60px;
+    border-radius: 5px;
+    text-align: center;
+    font-size:large
+}
+input[type=text]:focus{
+border:2px solid cyan;
+outline: none;
+}
+
+.heading h3{
+    text-align: center;
+   margin-top: 5rem;
+}
+.para p{
+    text-align: center;
+}
+.verify-otp{
+    margin-top: 5rem;
+    margin-left: 6.5rem;
+    margin-right: 6.5rem; 
+    height: 75%;
+    width:57%;
+}
+.text p{
+    text-align: center;
+    font-size: small;
+}
+.text{
+    margin-left: 21%;
+    margin-right: 21%;
+    border: 1px;
+    border-radius: 8px;
+}
