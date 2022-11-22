@@ -27,6 +27,7 @@ outline: none;
     margin-top: 5rem;
     margin-left: 6.5rem;
     margin-right: 6.5rem; 
+    border-radius: 20px;
     height: 75%;
     width:57%;
 }
@@ -39,4 +40,9 @@ outline: none;
     margin-right: 21%;
     border: 1px;
     border-radius: 8px;
+}
+::-webkit-inner-spin-button,
+::-webkit-outer-spin-button{
+    -webkit-appearance: none;
+    margin: 0;
 }
